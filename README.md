@@ -5,10 +5,9 @@ A collection of your favourite football stars and their iconic moments.
 
 ## Usage:
 ```
-1. Download the Football Stars repo 
-```
-git clone https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars
-```
+1. Download the Football Stars repo
+
+  git clone https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars
 
 2. Connect your Flipper Zero to qFlipper app
 
@@ -19,6 +18,8 @@ git clone https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars
 Note: These steps apply for ```Momentum Firmware```
 ``` 
 ## Demo:
+
+https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars/assets/63975446/03171910-d6fd-4656-a9dc-ee379319f174
 
 ## Note:
 This Animation pack was made manually and needs proper refinment which is work in progress.
